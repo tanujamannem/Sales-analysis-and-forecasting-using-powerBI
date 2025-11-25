@@ -34,3 +34,6 @@ This project focuses on **analyzing sales performance** across different regions
 - Top performing teams identified using total amount metrics.
 - Highest sales regions and category trends highlighted.
 - Seasonal trends and forecasted sales indicate upcoming demand patterns.
+
+  <img width="970" height="563" alt="image" src="https://github.com/user-attachments/assets/ff4528c7-bfa9-406d-8805-6f0a6567816d" />
+

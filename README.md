@@ -37,3 +37,6 @@ This project focuses on **analyzing sales performance** across different regions
 
   <img width="970" height="563" alt="image" src="https://github.com/user-attachments/assets/ff4528c7-bfa9-406d-8805-6f0a6567816d" />
 
+  <img width="1029" height="573" alt="image" src="https://github.com/user-attachments/assets/febf62a1-c4dc-473c-9d8b-4ce68770a78a" />
+
+
